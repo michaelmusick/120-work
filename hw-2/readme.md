@@ -2,14 +2,20 @@ Michael Musick, 51
 
 # HW-2 README Document
 
-This is an example of a readme file that you may write this week.
+This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost.
+
+I think I _may_ ~~hate~~ 'be ok with' the professor.
+
+However, I really like [Professor Musick's website](https://michaelmusick.com).
+
+## Discussion of Problems
+
+One thing I found confusing was how to add an image. At first, I forgot to add the exclamation mark, like so:
+
+```markdown
+[Alt Text](https://linkToMyImage.com)
+```
+
+Then I remembered to add the exclamation point. So I can upload my screenshot.
 
 ![example image of atom](atom-editor.png)
-
-- This is fun
-- What is going on
-
-```javascript
-var der;
-der = "I dont know how to code yet...";
-```
