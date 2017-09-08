@@ -6,3 +6,7 @@ This is my first text document for one of Dr. Musick's Media Arts courses.
 I added a new line to this file in my text editor, saved it, then changed it!!!
 
 HAHAHAHAHAHAH!!!!!
+
+I am now adding lines to demonstrate the use of GitHub Desktop.
+
+Small changes.
