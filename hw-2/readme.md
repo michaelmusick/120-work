@@ -1,21 +1,9 @@
-Michael Musick, 51
+Michael Musick 50
 
-# HW-2 README Document
+# HW-2 Response Document
 
-This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost. This week, I kind of got lost.
+This week was a struggle for me. The concepts, were so abstract, that it was difficult to understand why we are doing some of the things we are doing. In addition, I keep getting really confused by the term "directory". I know it means folder, but
 
-I think I _may_ ~~hate~~ 'be ok with' the professor.
+## Image Example
 
-However, I really like [Professor Musick's website](https://michaelmusick.com).
-
-## Discussion of Problems
-
-One thing I found confusing was how to add an image. At first, I forgot to add the exclamation mark, like so:
-
-```markdown
-[Alt Text](https://linkToMyImage.com)
-```
-
-Then I remembered to add the exclamation point. So I can upload my screenshot.
-
-![example image of atom](atom-editor.png)
+![This is an example screen image](./editor_image.png)

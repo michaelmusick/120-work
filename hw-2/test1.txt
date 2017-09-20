@@ -1,12 +1,19 @@
 Name: Michael Musick
-Date: 2017-09-07 11:31
+Date: Sept. 10th, 2017
 
 This is my first text document for one of Dr. Musick's Media Arts courses.
 
-I added a new line to this file in my text editor, saved it, then changed it!!!
 
-HAHAHAHAHAHAH!!!!!
+HAHAHAHAHAHAHAHA
 
-I am now adding lines to demonstrate the use of GitHub Desktop.
+This is for the git diff.
 
-Small changes.  
+Making some more changes for the git video demo!!!!!
+
+This is a change for GitHub.com.
+
+
+More changes for git diff demo!
+
+
+I AM NOT MAKING CHANGES TO DEMO GITHUB DESKTOP!
