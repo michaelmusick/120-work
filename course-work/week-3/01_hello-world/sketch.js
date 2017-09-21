@@ -1,3 +1,5 @@
-function draw(){
-  text("Hello World", 30, 30);
+
+function setup(){
+    createCanvas(400,100);
+    text("Hello World", 0, 10);
 }
