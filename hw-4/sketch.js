@@ -1,4 +1,3 @@
-// setup function
 function setup() {
     // create a canvas to draw on
     createCanvas( 600, 800 );
@@ -55,8 +54,10 @@ function draw() {
     /* BODY */
     /* ***************************** */
     push();
+    // main shirt rectangle
     rect( -150, -100, 300, 300 );
 
+    // red short stripes
     push();
     fill( 'rgba(255, 0, 0, 0.66)' );
     translate(-150, -100);
@@ -69,6 +70,7 @@ function draw() {
     rect(0, 0, 300, 40);
     pop();
 
+    // green shirt stripes
     push();
     fill( 'rgba(16, 143, 0, 0.66)' );
     translate(-150, -100);
@@ -80,6 +82,9 @@ function draw() {
     translate(87, 0);
     rect(0, 0, 40, 300);
     pop();
+
+    // button
+    ellipse( 0, 0, 30 );
 
     pop(); // BODY END!
 
@@ -165,9 +170,6 @@ function draw() {
     pop();
 
     pop(); // HEAD END
-
-
-    ellipse( 0, 0, 30 );
 
 
 
