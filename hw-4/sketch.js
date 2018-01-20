@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // setup function
+=======
+>>>>>>> parent of deac4f9... added test1.txt
 function setup() {
     // create a canvas to draw on
     createCanvas( 600, 800 );
@@ -55,8 +58,15 @@ function draw() {
     /* BODY */
     /* ***************************** */
     push();
+<<<<<<< HEAD
     rect( -150, -100, 300, 300 );
 
+=======
+    // main shirt rectangle
+    rect( -150, -100, 300, 300 );
+
+    // red short stripes
+>>>>>>> parent of deac4f9... added test1.txt
     push();
     fill( 'rgba(255, 0, 0, 0.66)' );
     translate(-150, -100);
@@ -69,6 +79,10 @@ function draw() {
     rect(0, 0, 300, 40);
     pop();
 
+<<<<<<< HEAD
+=======
+    // green shirt stripes
+>>>>>>> parent of deac4f9... added test1.txt
     push();
     fill( 'rgba(16, 143, 0, 0.66)' );
     translate(-150, -100);
@@ -81,6 +95,12 @@ function draw() {
     rect(0, 0, 40, 300);
     pop();
 
+<<<<<<< HEAD
+=======
+    // button
+    ellipse( 0, 0, 30 );
+
+>>>>>>> parent of deac4f9... added test1.txt
     pop(); // BODY END!
 
 
@@ -167,9 +187,12 @@ function draw() {
     pop(); // HEAD END
 
 
+<<<<<<< HEAD
     ellipse( 0, 0, 30 );
 
 
+=======
+>>>>>>> parent of deac4f9... added test1.txt
 
 
     pop();
