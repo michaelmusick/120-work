@@ -1,3 +1,3 @@
-# Example Repo
+# 120-work
 
-This is an example repo showing you how to make a git repository, add it to github, and push changes. 
+This is Michael Musick's repo for course work related to Creative Coding 1.
