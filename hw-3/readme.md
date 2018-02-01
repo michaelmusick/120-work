@@ -5,7 +5,7 @@ Michael Musick, 51
 
 # HW-3 Response
 
-This week, was quite enjoyable getting into p5 finally. I loved that I could change the background of the canvas. ... hahahahahha
+This week, was quite enjoyable getting into p5 finally. I loved that I could change the background of the canvas. blah ...
 
 
 ## Final Sketch
